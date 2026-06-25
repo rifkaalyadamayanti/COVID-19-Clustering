@@ -17,7 +17,7 @@ Proyek ini bertujuan mengelompokkan provinsi di Indonesia berdasarkan dinamika k
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature Scaling
-- K-Means Clustering
+- Clustering
 - Elbow Method
 - Silhouette Score
 - Visualisasi Hasil Clustering
